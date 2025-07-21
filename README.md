@@ -1,1 +1,9 @@
-# Cyber_Security_Analysis
+Cyber Security Breaches Dashboard
+What is Cyber Security?
+Cyber Security is the application of technologies, processes and controls to protect systems, networks, programs, devices & data from cyber attacks. It aims to reduce the risk of cyber attacks and protect against the unauthorised exploitation of systems, networks & technologies.
+
+About the use case
+To develop the basic understanding of analysis of the Cybersecurity breaches occurred in the past and how many breaches are currently open, Number of employees are affected by it and the types of Breaches
+
+Dashboard sneak peak:<img width="738" height="399" alt="image" src="https://github.com/user-attachments/assets/7e2ad2de-3f9c-49d9-8dae-54a9c33bdbee" />
+ 
